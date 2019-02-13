@@ -1,0 +1,1 @@
+@py.exe %0\..\mapit.py
